@@ -1,1 +1,3 @@
-# CSS-positioning_bg_ps-
+# CSS-positioning_bg_ps
+
+Understanding CSS positioning can be tricky, especially for beginners to CSS. It is also essential to understand if you want to be able to build complex layouts. In this CSS tutorial we'll learn about different methods for using CSS to position HTML elements including fixed, absolute, relative positioning, and also how to float and clear elements. We'll also take a look at the ways each type of positioning affects the element it is applied to, and how it affects the behavior of elements around it. We'll finish up this CSS training by answering one of the most common CSS questions about positioning: How to center elements. Software required: Brackets, Google Chrome.
